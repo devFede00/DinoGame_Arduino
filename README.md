@@ -10,7 +10,7 @@ The project code is in [dinoGame.ino](dinoGame.ino) and uses the `LiquidCrystal`
 
 The project's images and video are available in the [multimedia](multimedia/) folder:
 
-### Circuit DesignS
+### Circuit Design
 
 [![Circuit Design](multimedia/circuit_image.png)](https://app.cirkitdesigner.com/project/2570c88a-545e-40e6-91c6-fab211f9cc3a)
 
